@@ -1,4 +1,4 @@
-name: "Test Issue Label"
+name: "First Interaction"
 on: [issues, pull_request]
 
 jobs:
