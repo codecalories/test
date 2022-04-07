@@ -14,14 +14,16 @@ Issue New Excersise Form
 - Extra information required
 - Email Verification Requuired
 - Email Verified
+-------------
 TODO:
 - [ ] ISSUE NEW EXCERSISE TEMPLATE (Geting Feedbacks)✔
 - [ ] README For Main Project
-- [ ] Doc
+- [ ] enable decisione
 - [ ] Lables ✔
 - [ ] Pull Request Template ✔
 - [ ] workflow (labeling new interactions and reply new issue and PR for announcing the verification email)✔
 - [ ] email verification
 - [ ] Disable making a blank issue
 - [ ] make an issue template for report a problem in a question (number(ID) of question. summary the problem. describe the problem. contact info.)
-- [ ] enable decision
+- [ ] exercise structure
+- [ ] Doc
