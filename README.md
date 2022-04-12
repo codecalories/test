@@ -1,6 +1,5 @@
-# test
-
 TODO:
+
 - [ ] ISSUE NEW EXCERSISE TEMPLATE (Geting Feedbacks)✔
 - [ ] README For Main Project
 - [ ] enable decisione
@@ -18,9 +17,10 @@ TODO:
 - [ ] https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-discussions-in-your-repository
 - [ ] Setting
 - [ ] Issue form for translate excersise
+- [ ] .github/profile Repository
+- [ ] translate field for create new EXCERSISE
+
 ### new lables:
 - Extra information required
 - Email Verification Requuired
 - Email Verified
-
-- translate field for create new EXCERSISE
