@@ -17,8 +17,10 @@ TODO:
 - [ ] CODE_OF_CONDUCT 
 - [ ] https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-discussions-in-your-repository
 - [ ] Setting
-
+- [ ] Issue form for translate excersise
 ### new lables:
 - Extra information required
 - Email Verification Requuired
 - Email Verified
+
+- translate field for create new EXCERSISE
