@@ -24,3 +24,5 @@ TODO:
 - Extra information required
 - Email Verification Requuired
 - Email Verified
+- Translate
+- Unique ID
