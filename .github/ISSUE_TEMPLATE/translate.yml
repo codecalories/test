@@ -24,7 +24,7 @@ body:
       required: true
 
   - type: dropdown
-    id: Should-Delete
+    id: Should-Delete1
     attributes:
       label: Should-Delete
       description: What language is the exercise about?
