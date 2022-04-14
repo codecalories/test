@@ -24,9 +24,9 @@ body:
       required: true
 
   - type: dropdown
-    id: Should Delete
+    id: Should-Delete
     attributes:
-      label: Language
+      label: Should-Delete
       description: What language is the exercise about?
       options:
         - Python
@@ -49,9 +49,9 @@ body:
       required: true
 
   - type: dropdown
-    id: Should Delete
+    id: Should-Delete
     attributes:
-      label: Difficulty level
+      label: Should-Delete
       description: For more information check the [documentation](https://github.com)
       multiple: false
       options:
